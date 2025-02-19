@@ -1,4 +1,5 @@
 reset2qq
 asddd dsfsds
 fsefw
-wfdwqrqf
+git log --oneline --all
+ex
